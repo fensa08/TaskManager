@@ -25,7 +25,6 @@ public class TaskManager {
 
     public void processTask(Task task ){
 
-        // dodaj ovde deka task is processed!
         System.out.println("PROCESSING NEW TASK ...\t");
 
 
